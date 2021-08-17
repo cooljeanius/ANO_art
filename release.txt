@@ -1,0 +1,120 @@
+Yes, guys, the ANO is back. Thanks to the tremendous effort by Spencer "The
+Sigil" Cooley the campaign is again alive and kicking. This post is a shameless
+advertisement, but I hope you all will forgive my all self-praising attitude.
+Ours - campaign creators' and maintainers' - the only reward is when
+players write you did a good job.
+
+The "A New Order" was originally written for Wesnoth 0.9.3 (if I am not
+mistaken) in 2005 year.  It was then at times abandoned, until some fans took a
+job of maintaining it.  In addition, a load of people were contributing
+patches, corrections and suggestions. The current version of ANO is effect of
+effort made by Spencer "The Sigil" Cooley, who not only spent endless nights at
+porting the campaign to the Wesnoth 1.9, but also reread all the story, and
+corrected it to proper English. In addition, he rebalanced the factions and
+scenarios (remember, ANO was written for Wesnoth 0.9.3). He contributed so much
+that I felt I had no other choice that to do the same. As I had some free time,
+I did my best to help him. Remember that Sigil made the bulk of the effort
+porting to 1.9 and correcting my English. All hail Sigil!  Detailed changelog
+may be found within ANO campaign.
+
+Just one explanation: I wanted Sigil to make a release, but unfortunately, he
+is a very busy man; I got his last email a month ago, saying that he is too
+busy to write. Previous email was two months ago, saying, he is busy but he
+will have time soon; Since the campaign is waiting for a release for almost a
+half year now, I decided that it's the time; and I hope Sigil will forgive me I
+have not waited more.
+
+This campaign was the first to employ several features. Switching the leaders,
+their armies and recruitment lists between scenarios required a lot of painful
+work at the time of 0.9.7 and while now several other campaigns employ this
+trick, in 2005 this was completely novel. The mid-scenario strategic maps were
+previously used in one unfinished campaign, and I think they were first time used
+to such extent and effect in ANO. Interrogations of enemy leaders was another
+innovation introduced by ANO. Assigning points to the player depending on his
+performance was yet another. 
+
+In the past, people identified several shortcommings of the campaign. Some were
+complaining that ANO lacks any music. Now we have pieces composed by Christian
+Hellerberg especially for this campaign. Also, Nick Humphrey and Erik Rijshouwer
+kindly agreed to let us use their music. Finally, we used music by Mattias
+Westlund, Doug Hoffman and  Tyler Johnson. 
+
+Few people were complaining about
+the typos and awkward sentences (since I am Polish, usually I write according
+to the idioms and flow of my native language). Well, since you are reading
+this, you probably already noticed what they meant :). 
+This was partially corrected in the past already by previous 
+maintainers (thanks Typhoon and Turuk), but Sigil now read the whole storyline,
+and rewrite some parts anew when necessary. 
+
+Surprisingly few people complained about the art, but even this was corrected.
+For this new release we commission professional artists to create portraits and
+story images. We use art by Santiago Iborra, Łukasz Zaręba
+plus several compositions by me and Sigil. While it resulted at lower number
+of images and portraits overall, I hope the quality makes for the loss of the
+quantity. 
+
+I would want to use this opportunity to thanks all those who contributed to ANO
+in the past. I've never had opportunity to say them how much I was grateful for
+their contributions.
+
+First of all, I want to thanks previous maintainers of ANO: they were typhoon
+(Micheal P. Kochis), tapik (Otto Buchta) and Vincent Croisier (viorc). They
+also spent numerous hours correcting bugs and typos. In addition I want to
+thank a lot of other people:
+
+* Turuk (he actually didn't like the campaign, but he spent nevertheless hours
+  to correct typos and grammar. BTW the only person who said that the ANO had
+  horrendous dialogue and the storyline needs changes. Thanks for keeping me
+  humble :) ) 
+* Vincent Croisier (viorc) for team coloring the sprites
+* Peter Geinitz (shadow aka wayfarer) for sprites corrections
+* unsung, ott, capitol, ave, Tomek Sikorski (tomsik), teldar, tapik, derek,
+  alxrem,malin keshar and T3st3r for bug reporting and typo corrections.
+  Especially Malin for contributing ready patches :)
+* all the translators of ANO: David Philippi, Jose Gordillo, Otto Tapik, Piotr
+  Cychowski, Harry Dewulf, Joe Hansen, Geoffroy Douillie, Simon Sobisch,
+  Brivido, Alexet Remizov, nikita, capitol, Stephen Bergstrom (tephlon), Eduardo
+  Jose Papa, Nilgun Belma Buguner.
+* And also elvish pillager, turin, jetryl, pickslide, Nils Kneuper, scott - for
+  patience, hints and advices when I was developing the first version of ANO
+  and the wonderful atmosphere at wesnoth forums they helped to create.
+* The team of wesnoth.com.pl, Polish fansite of Wesnoth, for making a place
+  for alpha release of ANO.
+
+
+For those, who already played ANO in the past:
+[spoiler]
+Sigil argued that Andrey Yaranov was too easy-going person. He replaced him by
+Majid Yahyazad, with the goal of adding more depth to the relations between him
+and Lorin. He added also more touches to give more justice to Ruvio. I hope
+you will like these changes -- even though I vetoed it in some places. 
+Sigil also replaced Aragwaithi by Khalifa.
+[/spoiler]
+
+The campaign is now way too big, and I will add more images successively.
+But I will try to find ways to make it smaller. And I have a question: 
+I have impression, that images/portraits/transparent is not needed at all.
+When portrait in high resolution is simply put in images/portraits, then
+it seems to me that game engine scales it down for within-game conversation
+purposes when necessary, and uses high-resolution for profile in unit description.
+Am I correct? If so, I could shave more than 8 MB from the campaign...
+
+In addition, after correcting the English, current translations are made
+2/3 invalid. If you liked ANO in the past, please translate it to your
+own language. 
+
+I don't know whether I will keep Khalifa in future versions of ANO. The two
+advantages were that a) some people don't like Aragwaithi, I don't know why; in 
+fact at least one man said he won't play anything with Aragwaithi within
+b) Khalifa were included within mainline, so it would mean smaller campaign.
+However, the more I think about it, the less I like the idea; They do not
+really fit the original story. But current Aragwaithi do neither -- current
+Aragwaithi are different from the original faction, which had no back story then.
+Well, I am waiting on your opinions in feedback forum in appropriate thread.
+
+I will have not enough time now to fully maintain the campaign -- I think I will 
+have no more than few hours weekly free to spare. Nevetheless, I will try
+to release new versions of ANO whenever new bug fixes, translations or images
+will be available. If someone would want to take over maintaining, send me
+a message.

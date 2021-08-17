@@ -1,0 +1,158 @@
+Rebalance work of the whole Akaladian line:
+
+-all fighters of lv3 have a base hit points of 54, damage points of 50, regardless of whether it is lawful, neutral, or chaotic
+-all fighters of lv2 have a standard hit points of 40, damage points of 36, regardless of whether it is lawful, neutral, or chaotic, needs 80exp to advance
+-all fighters of lv1 have a standard hit points of 30, damage points of 24, regardless of whether it is lawful, neutral, or chaotic, needs 40exp to advance
+-all units’s hp and damage points varies within a range that won’t obvioulsy overpower other kinds of same-level-same-line Akaladian units. How much they vary are up to what type of armor(resistance) and damage they deal.
+
+Warning:
+1. Akaladians have too few hp points. Though set them greatly resist physical attack is doable , since thus they comparatively fear magical attack very much, the oringinal hp points standard is quite unbalanced, or let me just say (mean no offense), it is wrong.
+2. The oringinal neutral line is very different when compared to lawful and chaotic lines. However, the lawful line and chaotic line are much the same; the only difference what we can name is they are “lawful” or “chaotic”. So I reset the whole two lines of them, make them special, give them special and generally balanced characteristics.
+3. This system is balanced but it still cannot merge into the deafult wesnoth multi-faction battles. This indicates that u cannot make a balanced“Era of Akaladia”. Why? No range weapons for Akaladians is just a minor thing. In fact I gave all Akaladians a bonus, the “bonus for being an Akaladian”(Funny, isn’t it? lol~ :lol2: ), let them train high quality units with comparatively less costs and the units deal greater damage.
+4. Default Akaladian Resistances:
+Blade(bla)=40
+Impact(imp)=40
+Pierce(pic)=50
+Fire(fir)=10 (What the hell is that “15%”?!)
+Cold(col)=10 (Not necessary, but for the sake of default wesnoth units’standard. )
+Arcane(arc)=20
+The complete line of Race Akaladia:
+*The numbers in “()” are the former set numbers. Higher levels are not marked for the former set is ridiculous.
+
+Clansman $10
+4*3-pic (5*3. This indicates that you may need to decrease the former scenerios’ difficulty.)
+move=5
+19hp
+23exp (highly suspectable in the general wesnoth settings. I suggest 19. But regardless, it is up to you.)
+
+
+Neutral line:
+
+
+Warrior $17(15)
+6*4-pic-firststrike
+move=5
+33hp(26)
+——42exp (Actually 39-45, it is up to you. Changing this need to take extradinary care for you will have to change other lines.)
+
+Infantry $34
+10*4-pic-firststrike
+move=5
+42hp
+——86exp (Actually 80-92, it is up to you. Changing this need to take extradinary care for you will have to change other lines.)
+
+1.Fastfoot $72
+10*5-bla
+move=7 (Are u really sure for this? It is your game, though; But responsibly speaking they will surely overpower any lv3 fighters. I removed their “firststrike” to make them a little weaker, but they are still very very strong. In this place I have to mention that for all melee units who could have a random trait “strong”, giving them 6 strikes takes great risk.)
+48hp
+
+2.Pikenneer $72
+14*4-pic-firststrike
+move=5
+54hp
+
+
+Chaotic line:
+
+
+Raider $17
+8*3-bla
+move=6 (The “difference”. In compensation they have fewer hp and worse resistances than lawful and neutral units.)
+30hp
+——42exp (Actually 39-46, it is up to you. Changing this need to take extradinary care for you will have to change other lines. Notice, 39-46, not 45. Their domain is a little bit higher. Does that indicate chaotic units in Wesnoth is stronger than neutral and lawful? Although I dunno why but I still took it as an average standard.)
+
+Sturmknight $34
+8*5-bla
+Move=6
+39hp (Very few still. All kinds of such stuff result in causalities. )
+——86exp (Actually 80-92, it is up to you. Changing this need to take care for you will have to change other lines.)
+
+Darknite $72
+11*5-bla
+Move=6
+52hp
+
+
+Lawful line——leaders:
+
+
+Leader $19
+5*4-bla
+Move=5 (You noticed, right? Akaladian foottype is already the strongest one that we have ever seen. Such a leader with 6 move points would be too strong. They gain their righteous mobility back later, but get fewer hp and damage bonus for leveling at the same time.)
+27hp
+——38exp (As always. Low level leaders need fewer exp points to level. Actually 34-41, it is up to you. Changing this need to take care for you will have to change other lines. Highly Unsuggested to modify it higher than 40.)
+
+Chieftain $38
+8*4-bla
+Move=6
+(base unit: loyalist liutenant + “being an Aakaladian” bonus)
+36hp
+——90exp (Actually 80-100, it is up to you. Changing this need to take extradinary care for you will have to change other lines. The principle of Leader-lines-leveling still remain mysterious, I can hardly figure out how to modify it, so I draw a big unaccurate domain for you.)
+
+Lord $72
+11*4-bla
+Move=6
+48hp
+
+
+Lawful line——guardians:
+
+
+Homeguard $19
+7*3-bla
+Move=5
+36hp
+*Resistances modification:
+Fire=20
+Cold=20
+Blade=50
+Impact=50
+(In this way, Akaladian army have a complete system of fighter, tank, destroyer, leader and healer. They are inherently without ranged units so this can be neglected.)
+——48exp (45? I dunno. The domain is 44-52, or 46-50. Whatever the range u pick, remind yourself that if you change this you will have to change all. Guardians level quite confusingly too so I cannot make a definite conclusion.)
+
+Shield Guard $38
+9*4-bla
+*They heir the modified resistances.
+Move=5
+45hp
+(base unit: clasher + “being an Aakaladian” bonus)
+——100exp（Is this unit really a guardian pattern unit? Its hp standard is too low to make me think it over. If you suppose not, give it 85, which domain is unknown and suppose to be 80-90. Or, set them within 91-112.）
+
+Protector $76 (The harder to kill, the higher the price...it was and should not be like that, but despite of this it really works fine!)
+12*4-bla
+Move=5
+58hp
+
+
+Healer line: (Full of suggestions and suspections. I only made them a little stronger and make some sense for their prices. These healers are no normal ones to evaluate. Healers in Akaladia are scarce. They do not get “being an Aakaladian” bonus, but in contrary eat their advantage back.)
+
+
+Wiseman $20
+3*2-imp (I told many people many times: if u wanna make a unit NOT neutral, its least damage per strike must be >=3, for only if a kind of damage per strike >=3, they get a lawful or chaotic bonus. You set them as lawful units and their attatck as 2*3 and , right? This is actually the same thing as setting them neutral. Infact you can see such an error happens in an very obvious place. Default Wesnoth unit—giant rat, a chaotic rat who has 2*4 attack. The designer must be drunk that day when he invented this unit lol~ :lol2: )
+move=5
+19hp ($20, only 2*3 attack heals+4 and 16hp...hehehe, that is funny. Units which have less than 16 hp do not even suitble for having 2 traits. Though Akaladians have only one, I solve this in presumption that they should have 2.)
+——23exp (For they are hard to level up. 23 is the standard for lv0s, though I prefer 19.)
+
+Holyman $33
+3*2-imp
+Move=5
+27hp
+Cures, Heals+8
+(For their armor’s sake, this price is just fair enough.)
+——42exp （Domian 38-54. If they are of mage pattern, 54 is just fine. But obviously they are not, and having only a 3*2 staff, they can hardly level. So, I gave them 42. 38 is a number refering to saurian augur’s exp, but I count holyman’s resistances in.）
+
+Wwonderman $45
+3*2-imp
+Move=5
+35hp
+(base unit=white mage + “being an Akaladian healer”bonus. This should a decrease, not an increase.)
+Special: 12*2-arc-ranged-magical (Since generally the whole Akaladian race don’t have ranged base units, “ranged” weapon can be considered as a weapon special ability.)
+
+
+In conclusion, the peculiarity of the whole system of Akaladians defined two main strategies of using them:
+
+1. During daytime, defend and siege by Homeguards, better led by Chieftains or held back by Wisemen if the condition permits. Sometimes even push the enemy away since Akaladians have innate higher attack points and hp than usual. When night falls, Homeguards still guard the edge, Chieftains lead, Wisemen heal, and slaughter by Raiders. Raiders are perfect offense units and maradurers, for they have 1 additional movement points.
+
+2. Simply offense the enemy continuously unceasingly by hordes of relentless and ruthless and restless neutral Warriors, day and night, march forward, better led by Chieftains or held back by Wisemen if the condition permits. If you have enough money, and managed to decimate enemy poisoners and fire/arcane/cold weapon bearers before they agonize you, there should have nothing really remain existed in Irdya to stop Warrior hordes.
+
+Hope you utilize these data wisely, because it really costs me a lot of time. This is what I could say after all. I would disappear soon because I irritated a powerful moderator, and when The_Other told me to “run far, run quick”, I didn’t. So, whatever...I wish you gl hf and succeed to make this campaign better someday. 

@@ -1,0 +1,33 @@
+Hoyre O Barnon
+
+Facet mający powyżej 40 lat. Chudy i żylasty. W młodości był niezłym 
+wojownikiem, ale pozycję zdobył dzięki knuciu, kontaktom ze światem 
+duchów i tak dalej. Typ wybitnie, mówiąc brzydko, świętojebliwego
+człowieka. Ongiś odważny, obecnie z jego odwagi pozostały tylko
+wspomnienia. Lubi wspominać swoje dawne czyny, ale boi się je powtarzać.
+Gdyby kultura akladyjska była taka sama jak trzy pokolenia wstecz, przed
+podbojem Wesnoth, jego ludzie zabiliby go już dawno, jako niegodnego
+bycia Akladyjskim Lordem. Taki ojciec Rydzyk na sterydach. Święcie
+wierzy w to co mówi. Fanatyk, świr, skłonny do umartwiania, postów, i 
+wytykania innym ich słabości.
+
+Przykład rozmowy:
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"Is there any news from Bor Cryne?"}
+{MESSAGE (Bar Urien) () () _"Nothing new, my lord."}
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"He should already be here! Where is he?"}
+{MESSAGE (Bar Urien) () () _"My lord... This man, they call a messiah.."}
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"This underling? A creature who has usurped the holy name and who will be punished by God!"}
+{MESSAGE (Bar Urien) () () _"But.. What about if he really IS a messiah?"}
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"There is no question about it. Believe me, Bar Urien, I have been hearing the voices of the spirits since my youth and God has sent me many messages. Gawen is not the messiah. He is a mixling, one who is unworthy of even honourable death."}
+{MESSAGE (Bar Urien) () () _"But, I thought, let's just assume for a moment he IS..."}
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"Bar, you are fine warrior and you have always served our clan loyally. But leave the thinking to me."}
+..
+{MSGm_Gawen _"Akladians - open the way for me and my army. I am your rightful king, I am the messiah, the hand of God on earth. Whoever opposes me opposes God."}
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"Cease this blasphemy, foul mixling! You are nothing but a flabby underling."}
+{IF ano_hoyre_run equals yes}
+    {MSGm_Gawen _"Have you already forgotten that you have fled from me before, revered Hoyre? Twice now you have faced me; this time there will be no escape. You will lie dead on the battlefield, unless you recognise me as your king."}
+{ELSE}
+    {MSGm_Gawen _"I am your king, Hoyre. Admit that or I will be forced to kill you."}
+{END_IF}
+{MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"My king? You, my king? Never! I will rip your heart out! I will cut your hands off and feed the crows with them!"}
+

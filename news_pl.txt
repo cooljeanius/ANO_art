@@ -1,0 +1,107 @@
+<img src=ano-logo.png>
+Specjalnie dla członków polskiej społeczności Battle for Wesnoth -- 
+przed-wydanie kampanii "Nowy Porządek" (A New Order). Kampania
+jest obecnie rozgrzebana; wprawdzie była już ukończona, ale zmiany
+w silniku Wesnoth spowodowały, że sporo rzeczy trzeba było zrobić od nowa.
+
+Kampania powstała
+w roku 2005 roku dla wersji Wesnoth 0.9.3 i była prawdopodobnie pierwszą
+kampanią napisaną przez Polaka dla tej gry. Później miałem za mało czasu,
+by się nią zajmować i kilkakrotnie pielęgnacją zajmowali się ochotnicy.
+Niestety, silnik Wesnoth od 2005 roku zmienił się dość znacznie; tak samo
+zresztą jak sama gra. Obecna wersja kampanii dla wersji 1.8.0, choć grywalna,
+posiada jednak błędy i bardzo dużo drobnych usterek. 
+
+Obecnie, dzięki zaangażowaniu Spencera "The Sigil" Cooleya powstaje nowa
+wersja kampanii. Pan Cooley poprawił moją kiepską angielszczyznę, spędził
+dziesiątki godzin na równoważeniu scenariuszy. 90% pracy
+związanej z przygotowaniem nowego wydania wykonał właśnie on.
+Władował w kampanię tak dużo
+pracy, że poczułem się zmuszony, by samemu również dodać coś od siebie. 
+Pamiętajcie, że bez ciężkiej pracy Sigila ponowne wydanie ANO byłoby niemożliwe.
+All hail Sigil! 
+
+Na wstępie wybaczcie odrobinę samochwalstwa (no, może nieco więcej niż odrobinę),
+która zakradła się do tej wiadomości. Pamiętajcie, że jedyną nagrodą twórców
+kampanii jest uznanie od graczy; bądźcie więc wyrozumiali, widząc, jak się
+tym uznaniem cieszę.
+
+Dzisiaj, po sześciu latach, niektóre z sztuczek stosowanych przeze mnie w 
+"Nowym Porządku" mogą wydać się ograne przez inne kompanie; Pamiętajcie jednak,
+że kiedy je wprowadzałem, były czymś nowym. Tylko dla przykładu, przełączanie
+między liderami, obecnie łatwe dzięki wsparciu silnika Wesnoth, wymagało ode
+mnie napisania dość skomplikowanego kodu. 
+
+<quote>
+"ESPECIALLY for when it was written, this code is outstanding. It would
+literally take me months to do something like this, and I'm not certain I could
+do it even half so well. A number of things this campaign does are 'firsts',
+things that were later done by other code... It's a classic,"
+
+"I played this campaign a long time ago (several years, I think...) and for me
+it is one of the most underrated campaigns in Wesnoth. The storyline is very
+interesting and there were many technical inovations that were later
+incorporated in other campaigns "
+</quote>
+
+W przeszłości, wskazywano kilka niedociągnięć "Nowego porządku". Brak muzyki
+był jednym z nich. Dzięki zgodzie Nick Humphreya, Erika Rijshouwera oraz Christiana
+Hellerberga na wykorzystanie ich muzyki, nikt już -- mam nadzieję -- nie będzie
+narzekał na ciszę w słuchawkach. Utwór Christiana Hellerberga został przy tym
+napisane specjalnie dla nowego wydania kampanii. 
+
+O ile Francuzom, Hiszpanom czy Polakom nie przeszkadzały błędy w angielskim,
+rodzimi mówcy tego języka wytykali, że:
+
+"It is painfully obvious that English is not the original author's first
+language, yet on the other side of that same token, the prose is so well
+written that the one who wrote it put forth an effort, which was nothing short
+of astounding. Perhaps it was a matter that the sheer effort put forth to write
+it in coherent English, being put forth by an intelligent person, could not
+have produced a work, which was not of high quality." (Tak, wiem, że wystarczyłoby
+dać tylko część do pierwszego przecinka, ale nie mogłem się powstrzymać przed
+zacytowaniem całości :-) ).
+
+Co mniej ważne dla Polaków, angielski został poprawiony przez Sigila. Zasugerował
+on też kilka poprawek fabuły. O niektórych z nich jeszcze dyskutujemy :) Z tego
+powodu nie ma jeszcze gotowego tłumaczenia dla przedwydania.
+
+Co do tej pory mówiono o tej kampanii?
+
+<quote>
+"Hi! I usually don't post much, but I just want to say that this is a marvelous campaign!!! I haven't enjoyed an add-on as much as this since IftU - story, dialogue etc."
+
+"I just finished the campaign and it was with no doubt one of the most amazing campaigns i played. It felt like a "next-gen" Wesnoth at times, with the unmatched level of interaction with NPCs, large-scale maps, training levels, etc. So thanks a LOT for all the effort you must have put into this, it was really fun to play through."
+
+"Hello, first post in the forums... :) I had to register just to say how great campaign this one is. :) .. I gave a try to ANO. I was pleasantly surprised of the quality of the storyline and of the new units/races."
+
+"i think its one of the three best campaings i have ever play."
+
+"I played it years ago, never was able to finish, and found it to be one of the most original and interesting campaigns in all of Wesnoth. I can't wait to try it again."
+
+"I've played through it on easy level in the last few days and it was again a
+stunning experience, the best campaign I've ever played on Wesnoth!
+... The story is brilliant, it's something totally new, with new units I really
+liked, the whole story is well-thought-out, I couldn't stop play because I
+wanted the story to continue."
+</quote>
+
+Zdumiewająco niewielu ludzi narzekało na rysunki, ale poprawiliśmy również to.
+Dla tego wydania specjalnie zamówiliśmy prace profesjonalnych grafików, którzy
+stworzyli portrety oraz ilustracje. Używamy ilustracji panów Santiago Iborry
+oraz Łukasza Zaręby -- oraz kilku dodatkowych kompozycji stworzonych przez
+Sigila oraz mnie. Chociaż w efekcie mamy mniej ilustracji i portretów, ale 
+jakość mam nadzieję wynagradza stratę w ilości. W przed-wydaniu stare i nowe
+ilustracje są jeszcze pomieszane, ponieważ nie wszystkie grafiki są już gotowe.
+
+Sigil chce, by nowe wydanie ANO zawierało jak najmniej błędów, oraz by było
+jak najlepiej dopracowane. Stąd prośba dla polskich graczy: pomóżcie nam wyłapać
+błędy oraz zrównoważyć scenariusze. Specjalnie dla was wydajemy wersję alfa -
+już grywalną, ale wymagającą dopracowania. Brak w niej jeszcze kilku rysunków
+i muzyczek, ale to nie powinno przeszkadzać. Proszę, ściągajcie kampanię,
+grajcie, wyłapujcie błędy, sugerujcie poprawki, przysyłajcie uwagi dotyczące
+zrównoważenia kampanii itd. Mam nadzieję, że zarządcy 
+strony wesnoth.com.pl stworzą wątek przeznaczony na dyskusję o tym, co
+należałoby jeszcze w kampanii poprawić. Polskie tłumaczenie jeszcze nie jest
+gotowe; zabiorę się za nie natychmiast, jak tylko ostatecznie się ustabilizuje
+wersja angielska.

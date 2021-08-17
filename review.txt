@@ -1,0 +1,129 @@
+Yes, guys, the ANO is back. Thanks to the tremendous effort by Spencer "The
+Sigil" Cooley the campaign is again alive and kicking. This post is a shameless
+advertisement, but I hope you all will forgive my all self-praising attitude.
+Ours - campaign creators' and maintainers' - the only price is reading that
+players write you did a good job.
+
+"ESPECIALLY for when it was written, this code is outstanding. It would
+literally take me months to do something like this, and I'm not certain I could
+do it even half so well. A number of things this campaign does are 'firsts',
+things that were later done by other code... It's a classic,"
+
+"I played this campaign a long time ago (several years, I think...) and for me
+it is one of the most underrated campaigns in Wesnoth. The storyline is very
+interesting and there were many technical inovations that were later
+incorporated in other campaigns "
+
+The "A New Order" was originally written for Wesnoth 0.9.3 (if I am not
+mistaken) in 2005 year.
+It was then at times abandoned, until some fans took a job of maintaining it.
+In addition, a load of people were contributing patches, corrections and
+suggestions. The current version of ANO is effect of tremendous effort made
+by Spencer "The Sigil" Cooley, who not only spent endless nights at
+porting the campaign to the Wesnoth 1.9, but also reread all the story
+and tweaked it to make it more consistent and believeable. In addition, he
+rebalanced the factions and scenarios (remember, ANO was written for
+Wesnoth 0.9.3). He contributed
+so much that I felt I had no other choice that to do the same. As I had
+some free time, I did my best to help him. We spent a lot of time discussing
+the changes and even fighting about choice of the proper words in some scenarios; 
+Hope the result will satisfy you. However, please remember that Sigil made
+the bulk of the effort and all thankyou's should go to him. 
+
+"Actually, I like this campaign. Tricky story and incredible scripting make it worth of playing. "
+
+This campaign was the first to employ several features. Switching the leaders,
+their armies and recruitment lists 
+between scenarios required a lot of painful work at the time of 0.9.7 and
+while now several other campaigns employ this trick, in 2005 this was completely
+novel. The mid-scenario strategic maps were previously used in one unfinished
+campaign, and I think it were first time used to such effect in ANO. Interrogations
+of enemy leaders was another innovation introduced by ANO. Assigning points to
+the player depending on his performance was yet another.
+
+The campaign was praised by multiple people. 
+
+"Hi! I usually don't post much, but I just want to say that this is a marvelous campaign!!! I haven't enjoyed an add-on as much as this since IftU - story, dialogue etc."
+
+"I just finished the campaign and it was with no doubt one of the most amazing campaigns i played. It felt like a "next-gen" Wesnoth at times, with the unmatched level of interaction with NPCs, large-scale maps, training levels, etc. So thanks a LOT for all the effort you must have put into this, it was really fun to play through."
+
+"Hello, first post in the forums... :) I had to register just to say how great campaign this one is. :) .. I gave a try to ANO. I was pleasantly surprised of the quality of the storyline and of the new units/races."
+
+"i think its one of the three best campaings i have ever play."
+
+"I played it years ago, never was able to finish, and found it to be one of the most original and interesting campaigns in all of Wesnoth. I can't wait to try it again."
+
+In the past, people identified several shortcommings of the campaign. Some were
+complaining that ANO lacks any music. Now we have pieces composed by Christian
+Hellerberg especially for this campaign. Also, Nick Humphrey kindly agreed to
+let us use his music and in addition we used music by Mattias Westlund, Doug
+Hoffman and  Tyler Johnson. Few people were complaining about the typos and
+awkward sentences (since I am Polish, usually I write according to the idioms
+and flow of my native language). Well, since you are reading this, you probably
+already noticed what they meant :). One player noticed that:
+
+"It is painfully obvious that English is not the original author's first
+language, yet on the other side of that same token, the prose is so well
+written that the one who wrote it put forth an effort, which was nothing short
+of astounding. Perhaps it was a matter that the sheer effort put forth to write
+it in coherent English, being put forth by an intelligent person, could not
+have produced a work, which was not of high quality." (Thanks :) )
+
+This was partially corrected in the past already by previous 
+maintainers (thanks Typhoon and Turuk), but Sigil now read the whole storyline,
+and rewrite some parts anew when necessary. 
+
+Surprisingly few people complained about the art, but even this was corrected.
+For this new release we commission professional artists to create portraits and
+story images. We use art by Santiago Iborra, Łukasz Zaręba
+plus several compositions by me and Sigil. While it resulted at lower number
+of images and portraits overall, I hope the quality makes for the loss of the
+quantity.
+
+Finally, at least two people noticed, that:
+
+"The beginning of the campaign where you fight mostly akladian versus
+akladian is a bit boring an annoying. It took me a few time to go
+through it. After Barnon, thinks become really interesting and fun. It
+is really worth going on."
+
+We tried to correct this a bit.
+
+"I've played through it on easy level in the last few days and it was again a
+stunning experience, the best campaign I've ever played on Wesnoth!
+... The story is brilliant, it's something totally new, with new units I really
+liked, the whole story is well-thought-out, I couldn't stop play because I
+wanted the story to continue."
+
+I would want to use this opportunity to thanks all those who contributed to ANO
+in the past. I've never had opportunity to say them how much I was grateful for
+their contributions.
+
+First of all, I want to thanks previous maintainers of ANO: they were typhoon
+(Micheal P. Kochis), tapik (Otto Buchta) and Vincent Croisier (viorc). They
+also spent numerous hours correcting bugs and typos. In addition I want to
+thank a lot of other people:
+
+* Turuk (he actually didn't like the campaign, but he spent nevertheless hours
+  to correct typos and grammar. BTW the only person who said that the ANO had
+  horrendous dialogue and the storyline needs changes. Thanks for keeping me
+  humble :) ) 
+* Vincent Croisier (viorc) for team coloring the sprites
+* Peter Geinitz (shadow aka wayfarer) for sprites corrections
+* unsung, ott, capitol, ave, Tomek Sikorski (tomsik), teldar, tapik, derek,
+  alxrem,malin keshar and T3st3r for bug reporting and typo corrections.
+  Especially Malin for contributing ready patches :)
+* all the translators of ANO: David Philippi, Jose Gordillo, Otto Tapik, Piotr
+  Cychowski, Harry Dewulf, Joe Hansen, Geoffroy Douillie, Simon Sobisch,
+  Brivido, Alexet Remizov, nikita, capitol, Stephen Bergstrom (tephlon), Eduardo
+  Jose Papa, Nilgun Belma Buguner.
+* And also elvish pillager, turin, jetryl, pickslide, Nils Kneuper, scott - for
+  patience, hints and advices when I was developing the first version of ANO
+  and the wonderful atmosphere at wesnoth forums they helped to create.
+
+SPOILER: 
+
+Sigil argued that Andrey Yaranov was too easy-going person. He replaced him by
+Majid Yahyazad, with the goal of adding more depth to the relations between him
+and Lorin. He added also more touches to give more justice to Ruvio. I hope
+you will like these changes. Aragwaithi were replaced by Khalifa.

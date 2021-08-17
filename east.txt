@@ -1,0 +1,56 @@
+{MSGW_Lorin _"He is the force behind the universe. He created the world and is
+our father. He gave us the world to rule. One of his angels tried to stop us
+from doing that, deceiving us and trying to imprison us in his garden, but a
+messiah came from the Hagarthen clan. He told us that God desired us to wait no
+more..."}
+{MSGW_Lorin _"So we killed that evil angel and his minions to journey west. We
+fought our way through the deserts and the swamps, fighting with nightmarish
+creatures, not to mention lizards and green elves. I was raised hearing songs
+about this epic journey."}
+
+_"Carrenemoes have loyally served our kings for generations. I am Reme, son of
+Raul. My ancestors, according to our family legends, were amongst those who led
+our people in the great revolt and then in our epic escape through the desert.
+They established large kingdoms in the lands of underlings, for which we paid a
+steep price in blood.  Now... why do I wonder what was that price paid for?"
+
+
+_"After Mal-Ravanal's defeat, Grekulak was trapped in the swamps, spending his
+days roving in the morass and quagmire. Finally he came up with an idea. The
+undead had been storming the world of Wesnoth for millenia. They never
+succeeded, and often a very small group of brave living creatures - be they
+elves, humans or dwarves - were able to defeat large hordes of undead. "
+_"Grekulak's desire was to rule over the whole of the world. The art of
+necromancy was only a means for him, not the end itself - at least, that's what
+I think. Undead lack their own will, spirit, and intelligence and that seemed
+to him to be the reason for their constant failures. So Grekulak decided that
+in order to rule the world, he would need to use some race of living creatures
+as his servants." 
+_"I don't know about his twisted experiments - I would guess
+that he attempted many of them - but he finally came to the conclusion that
+neither orcs nor humans were well-suited for his goal. So he decided to breed a
+race of his own." 
+_"I have no idea how he was able to do it. It flies in the
+face of the whole of our knowledge and if I had not seen the living proof that
+he succeeded, I would have said it was impossible. He somehow crossed orcs and
+humans, until he got a new race of merciless warriors. He crafted and shaped
+them in every way, much as a smith crafts a sword. Yes, I am talking about the
+Akladians. " 
+_"He wished to use them as his tool for the conquest of the world.
+He wanted warriors, not mindless slaves, so he taught them a religion in which
+he, Grekulak, was God. It was he who would lead them. He created - or at least
+strongly influenced - a whole new, brutal and violent, culture. Hatred for
+elves, disdain for the mages are clear signs of the workings of Grekulak. Why
+Akladians retained the concepts of honour and loyalty in the face of Grekulak's
+indoctrination is unclear to me. " 
+_"But at their core, the Akladians were
+human. Human enough to want the same thing all humans in all ages have wanted.
+Freedom. The right to choose their own way in the world. One of them, called
+Hagarthen, announced that Grekulak was the tool of a false God, and led a
+bloody rebellion." 
+_"The rebellion left Grekulak's capital in ruins. The
+Akladians escaped to the west, chased by Grekulak's allies, burning in deserts,
+drowning in swamps, fighting the saurians tooth and claw to reach fertile
+lands, and beset by all kinds of the most nightmarish of creatures. This really
+was an epic journey; survived by less than a quarter of those who had left
+Grekulak's lands." 

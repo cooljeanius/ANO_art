@@ -1,0 +1,7 @@
+audacity (nie dzialz z open, trzeba podac plik jako argument)
+gwc (nie czyta ogg)
+sweep
+rosegarden midi
+qtractor ?
+linuxsampler ?
+cheesetracker normalny tracker, wspiera ft2
