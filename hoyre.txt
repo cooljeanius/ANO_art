@@ -11,7 +11,20 @@ bycia Akladyjskim Lordem. Taki ojciec Rydzyk na sterydach. Święcie
 wierzy w to co mówi. Fanatyk, świr, skłonny do umartwiania, postów, i 
 wytykania innym ich słabości.
 
-Przykład rozmowy:
+Machine translation to English:
+
+Guy over 40 years old. Lean and wiry. He was pretty cool in his youth
+a warrior, but he gained his position thanks to conspiracy and contacts with the world
+ghosts and so on. An eminently, ugly, holy-blessed type
+human. Once brave, now only his courage is left
+memories. He likes to remember his past deeds, but is afraid to repeat them.
+If the Akladic culture were the same as three generations back, before
+conquering Wesnoth, his men would have killed him long ago as unworthy
+being an Akladic Lord. Such father Rydzyk on steroids. World
+he believes what he says. Fanatic, freak, prone to mortification, fasts, and
+pointing out their weaknesses to others. 
+
+Przykład rozmowy (An example of a conversation):
 {MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"Is there any news from Bor Cryne?"}
 {MESSAGE (Bar Urien) () () _"Nothing new, my lord."}
 {MESSAGE (Hoyre O Barnone) (portraits/hoyre.png) () _"He should already be here! Where is he?"}
