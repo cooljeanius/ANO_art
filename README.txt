@@ -9,3 +9,6 @@ Compare this to how the main Wesnoth project has both a main repository and a
 media respository:
 Main repository: https://github.com/wesnoth/wesnoth
 Media: https://github.com/wesnoth/resources
+
+Material here largely comes from this forum thread:
+https://forums.wesnoth.org/viewtopic.php?f=23&t=36074
