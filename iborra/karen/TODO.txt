@@ -1,0 +1,2 @@
+TODO: synchronize the look of both her normal and winter portraits, so both are
+usable in the campaign together
