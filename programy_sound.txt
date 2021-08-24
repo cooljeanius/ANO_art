@@ -1,7 +1,7 @@
-audacity (nie dzialz z open, trzeba podac plik jako argument)
-gwc (nie czyta ogg)
+audacity (nie dzialz z open, trzeba podac plik jako argument) (does not work with open, you must give the file as an argument) 
+gwc (nie czyta ogg) (doesn't read ogg)
 sweep
 rosegarden midi
 qtractor ?
 linuxsampler ?
-cheesetracker normalny tracker, wspiera ft2
+cheesetracker normalny (normal) tracker, wspiera (supports) ft2
