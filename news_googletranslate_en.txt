@@ -1,36 +1,33 @@
 <img src=ano-logo.png>
-Especially for members of the Polish Battle for Wesnoth community -
-pre-release of the "A New Order" campaign. Campaign
-she is now buried; admittedly it was already finished, but changes
-in the Wesnoth engine meant that a lot of things had to be done from scratch.
+Especially for members of the Polish Battle for Wesnoth community: a pre-release
+of the "A New Order" campaign. The campaign is now buried(?); admittedly it was
+already finished, but changes in the Wesnoth engine meant that a lot of things
+had to be done from scratch.
 
-The campaign was established
-in 2005 for Wesnoth 0.9.3 and was probably the first
-a campaign written by a Pole for this game. Later I had too little time
-to take care of it and take care of it several times by volunteers.
-Unfortunately, the Wesnoth engine has changed quite a bit since 2005; same
-as well as the game itself. The current version of the campaign for version 1.8.0, although playable,
-however, it has bugs and a lot of minor bugs.
+The campaign was established in 2005 for Wesnoth 0.9.3 and was probably the first
+campaign written by a Pole for this game. Later I had too little time to take
+care of it and it was taken care of several times by volunteers. Unfortunately,
+the Wesnoth engine has changed quite a bit since 2005; same as well as the game
+itself. The current version of the campaign (as of the writing of the original
+version of this news) is for BfW version 1.8.0, although playable, however, it
+has bugs and a lot of minor bugs.
 
-Now, thanks to Spencer's involvement, Cooley's "The Sigil" is being created
-campaign version. Mr. Cooley corrected my poor English, spent it
-dozens of hours on scenario balancing. 90% of the work
-related to the preparation of the new edition was done by him.
-He had so much power in the campaign
-work that I felt compelled to add something myself as well.
-Remember that without Sigil's hard work, it would be impossible to re-release ANO. 
-All hail Sigil! 
+Now, thanks to Spencer Cooley's involvement (a.ka. "The Sigil"), a new campaign
+version is being created. Mr. Cooley corrected my poor English, spent dozens of
+hours on scenario balancing. 90% of the work related to the preparation of the
+new edition was done by him. He had so much power in the campaign work that I
+felt compelled to add something myself as well. Remember that without Sigil's
+hard work, it would be impossible to re-release ANO. All hail Sigil!
 
-First, forgive a little bragging (well, maybe a little more than a little),
-who had sneaked into this news. Remember that the only reward of the creators
-the campaign is recognition from players; So be understanding as you see yourself
+First, forgive a little bragging (well, maybe a little more than a little), who
+had sneaked into this news. Remember that the only reward for the creators of the
+campaign is recognition from players, so be understanding; as you see yourself,
 I am pleased with this recognition.
 
-Today, six years later, some of the tricks I use in
-The "New Order" may seem won over by other companies; But remember
-that when I introduced them, they were something new. For example only, toggling
-between the leaders, now easy thanks to the Wesnoth engine, required ode
-me writing some rather complicated code. 
+Today, six years later, some of the tricks I use in "A New Order" may seem won
+over by other companies; but remember that when I introduced them, they were
+something new. For example only, toggling between the leaders, now easy thanks
+to the Wesnoth engine, required me writing some rather complicated code. 
 
 <quote>
 "ESPECIALLY for when it was written, this code is outstanding. It would
@@ -44,13 +41,13 @@ interesting and there were many technical inovations that were later
 incorporated in other campaigns "
 </quote>
 
-In the past, several shortcomings of the "New Order" have been highlighted. No music
-was one of them. With the approval of Nick Humphrey, Erik Rijshouwer and Christian
-Hellerberg to use their music, no one - I hope - will be
-complained about the silence in the headphones. Christian Hellerberg's piece stayed with this
-written specifically for the new campaign release.
+In the past, several shortcomings of the "New Order" have been highlighted. No
+music was one of them. With the approval of Nick Humphrey, Erik Rijshouwer, and
+Christian Hellerberg to use their music, no one - I hope - will complain about the
+silence in the headphones. Christian Hellerberg's piece stayed with this written
+specifically for the new campaign release.
 
-While the French, Spaniards or Poles were not bothered by mistakes in English,
+While the French, Spaniards, or Poles were not bothered by mistakes in English,
 native speakers of the language pointed out that:
 
 "It is painfully obvious that English is not the original author's first
@@ -63,8 +60,8 @@ only give a part to the first comma, but I couldn't help but
 to quote the whole :-)).
 
 Less importantly for Poles, English was corrected by Sigil. Suggested
-he also made some plot tweaks. We are still discussing some of them :) From this
-For this reason, there is no translation ready for pre-release yet.
+he also made some plot tweaks. We are still discussing some of them :) For this
+reason, there is no translation ready for pre-release yet.
 
 What has been said about this campaign so far? 
 
@@ -86,22 +83,22 @@ liked, the whole story is well-thought-out, I couldn't stop play because I
 wanted the story to continue."
 </quote>
 
-Amazingly few people have complained about the drawings, but we've improved that as well.
-For this issue, we have specially commissioned works by professional graphic designers who
-they created portraits and illustrations. We use the illustrations of Mr. Santiago Iborra
-and Łukasz Zaręba - and a few additional compositions created by
-Sigil and me. Although as a result we have fewer illustrations and portraits, but
-quality hopefully makes up for the loss in quantity. Pre-release, old and new
-the illustrations are still mixed up as not all graphics are ready.
+Amazingly few people have complained about the drawings, but we've improved that
+as well. For this issue, we have specially commissioned works by professional
+graphic designers who created portraits and illustrations. We use the
+illustrations of Mr. Santiago Iborra and Łukasz Zaręba - and a few additional
+compositions created by Sigil and me. Although as a result we have fewer
+illustrations and portraits, but quality hopefully makes up for the loss in
+quantity. Pre-release, old and new, the illustrations are still mixed up as not
+all graphics are ready.
 
-Sigil wants the new ANO release to contain as few bugs as possible, and that it is
-polished as best as possible. Hence the request for Polish players: help us catch up
-errors and balance scenarios. Especially for you we are releasing the alpha version -
-already playable, but in need of refinement. A few more drawings are missing in it
-and music, but that shouldn't bother you. Please download the campaign
-play, spot bugs, suggest corrections, send feedback on
-campaign balancing etc. I hope the managers
-wesnoth.com.pl will create a thread for the discussion of what
-it should still be improved in the campaign. The Polish translation is not yet available
-finished; I will go to it as soon as it finally stabilizes
-English version. 
+Sigil wants the new ANO release to contain as few bugs as possible, and for it to
+be polished as best as possible. Hence the request for Polish players: help us
+catch up errors and balance scenarios. Especially for you we are releasing the
+alpha version - it isalready playable, but in need of refinement. A few more
+drawings are missing in it and music, but that shouldn't bother you. Please
+download the campaign, play it, spot bugs, suggest corrections, send feedback on
+campaign balancing etc. I hope the managers of wesnoth.com.pl will create a
+thread for the discussion of what should still be improved in the campaign. The
+Polish translation is not yet available/finished; I will go to it as soon as the
+English version finally stabilizes. 
