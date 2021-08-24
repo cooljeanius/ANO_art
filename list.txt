@@ -1,0 +1,80 @@
+Some comments from szopen; edited to remove personal things:
+
+A lot of time and thought went into the creation of the plot. At the time of
+creation of this campaign, I felt there was lack of "grown up" campaign, so I
+decided to create one of my own. Most of the sentences in this storyline have some
+purpose. This campaign is GPLed, but if someone wants to substantially change the
+storyline (like changing the relations between main characters, or psyche of some
+characters, or SAVING KAREN!!!!), it would really be better to change the name of
+campaign as well. In other words, if there would be any major change to the
+storyline, please do not use the "A New Order" name. I really loved my storyline,
+I really lived with it, and I really hate the idea that someone would change it.
+I do not mean of course removing grammar errors, or cutting bits and there here,
+changing the speech register and like, I mean only substantial changes to
+character, psyche, plot etc. 
+
+However, there are some things which can be changed with my full blessing. I want
+to write about several things I wanted to do, so future developers can have a
+better picture of the campaign.
+
+In fact, ANO is about 2/3 of the length intended for it at the beginning. But I
+got too tired in the end, and resigned from a few subplots:
+
+1) Mithrandil and whole idea of elvish conspiracy to kill off Haldric's
+descendants. I decided that it would not add much, that it was too unbelievable,
+and thus removed it. However, there are still two remains: 
+ a) It makes no sense for Mithrandil to have wrinkles. 
+ b) The following line can be (and has been) removed:
+in ano-29, line 67:
+"The elves believed, that with his death the curse of Haldric which was put
+long ago upon the Wesnoth and descendants of Haldric was finally relieved.
+Mithrandil, the only elf ever with wrinkles, finally could die, gleefully"
+It has no sense now. I forgot about that.
+
+2) Initially I intended player to have chance to find out about Lorin. At the
+beginning, I wanted the player to find out that Lorin had an older sister, who
+was poisoned; later I decided that it's better to have it unsolved, partially
+because it was too much work to add subplots. This only remains in scenario 13,
+with the ano_lorin_knows_about_roe variable <- the intended use was that if
+Lorin knows that Rob Roe told Gawen about poison, she would kill him sooner or
+later. Of course, the hero would only hear that Rob Roe got suddenly very sick
+and died, and only there would only be gossip that this could be poison. Otherwise,
+the player would have a chance to find out that it was Lorin who poisoned Gawen's
+mother. Later I changed it to be ambiguous and edited storyline accordingly.
+
+3) Again, at the very beginning Ruvio was supposed to have 3 daughters; one would
+be dead at Freetown, and a third was supposed to be treacherous. I wanted her to
+betray Freetown; I played with several reasons for why she did that:
+ a) that she was jealous about Gawen
+ b) that she wasn't really Ruvio's daughter (in other words that Ruvio's was
+betrayed by his wife) etc. Finally I decided that it was too unbelievable from
+psychological point of view, and it would be better to have this issue unsolved.
+Right now there is no sense in Ruvio having more daughters. There is still some
+dialogue that seems to imply he does, though, e.g. Bor Cryne's dialogue at Orannon.
+
+4) "It left Grekulak's capital in ruins, and Akladians escaped to the west, chased
+by Grekulak's allies, drowning in swamps, fighting with lizards and all kinds of
+most nightmarish creatures. This was really an epic journey survived by less than
+a quarter of all people who left Grekulak's lands" <- This line is a mistake,
+as others have explained. There are no swamps in Wesnoth's east. There should be
+a desert, and maybe fighting with shapeshifters. There were too many emotional ties
+to the image of Akladians fighting their way through the forests and drowning in
+swamps to change it.
+
+5) In the first scenario, a militia unit is introduced, solely so the author
+could play with creating units etc. (I (egallager) actually noticed how it was
+only used there and went and used it in another scenario because of that, instead
+of removing it)
+
+6) "I know your questions, Lorin from Gallorae, clan which had more gold in hair
+of their daughters than in their treasures. First answer is yes, you are. Second
+is yes, he will be. Third is no, you will never be." Lorin's questions that
+provoked these answers were: "Am I pregnant? Will this be a son and future king of
+Vakladia? Will I live happily with Gawen?"
+
+Lorin is a favourite of characters created for this campaign. 
+
+PS: As for balancing issues, hours and hours and hours of writing, balancing, and
+editing savegames went into the creation of this campaign (I found out that
+Wesnoth has debug features only at the very end of my work). But balance was
+probably destroyed by changes in Wesnoth etc.
