@@ -3,7 +3,9 @@ Bor Cryne and his faction were slowly but steadily gaining an advantage, thanks
 to the help of the orcs. Bandits and rebels - and sometimes the difference was
 just in name - were roaming the land unchecked. Hard times were ahead."
 
-"The winter was just ending when we returned to Freetown. Soldiers were singing mirthful songs, waiting impatiently for the chance to see the faces of their wives and children again. " POCZĄTEK WIOSNY
+"The winter was just ending when we returned to Freetown. Soldiers were singing
+mirthful songs, waiting impatiently for the chance to see the faces of their
+wives and children again." POCZĄTEK WIOSNY (THE BEGINNING OF SPRING)
 
 "Akladians weren't happy seeing mages marching in the ranks, but the personal
 authority of Gawen prevailed. However, he noticed that whatever objections
@@ -22,57 +24,60 @@ Ruvio's surprise."
 
 "Gawen ordered his soldiers to march quickly to the temporary base that had
 established in the plains north of Barnon. He was afraid that more enemy forces
-would arrive, and wanted to tend to his wounded." LATO
+would arrive, and wanted to tend to his wounded." LATO (SUMMER)
 
 "Gawen, Ruvio and Karen didn't celebrate their victory. The bodies of the last
 Akladians were still warm as they hurried from the battlefield. They entered
 the forest of Raedwood with the hope that no one would follow them." JESIEŃ
+(AUTUMN)
 
 "Gawen's soldiers left Freetown and swiftly entered the woods. They marched
 from dawn to dusk, until they found themselves at the border of Raedwood
-forest." WIOSNA
+forest." WIOSNA (SPRING)
 
 "Gawen and his soldiers spent only a few days in Freetown. Huon Ryedric and
 Mithrandil left the city and headed west. At dawn the following day, Gawen
 marched to the south. Mithrandil's elves were eager to show their abilities,
-finding the best paths through the forest." WIOSNA
+finding the best paths through the forest." WIOSNA (SPRING)
 
 "Entering the forests surrounding Barnon from the north, I could not stop
 myself from thinking about the battle a few months ago, when I was betrayed and
 left for dead on the battlefield. But then, if not for that betrayal and thata
-battle, I would probably never met Ruvio and Karen..." LATO
+battle, I would probably never met Ruvio and Karen..." LATO (SUMMER)
 
 "Guides showed Gawen where Bontom was located. He and his army soon reached the
 area. Of course his army was too big not to be noticed and his scouts reported
-that enemies were preparing their defenses." LATO
+that enemies were preparing their defenses." LATO (SUMMER)
 
 "Nothing broke the silence except the footfalls of the march of Gawen's
 soldiers. Even the grass here seemed to be weak and fragile, as though it was
 afraid to grow here. This was the Haunted Place, infamous throughout the
-surrounding region." LATO
+surrounding region." LATO (SUMMER)
 
 "It was hoped that our small army could sneak succesfully out of Okladia, but
 on the border we marched suddenly into outposts of the Okladian army. With
 scouts reporting that King Buffin's main army was at our backs, we had no time
 for finding another way. We had to hew our way through Akladian ranks." LATO
+(SUMMER)
 
-"They were called the Khalifa, which in their barbarian and unworthy language
-meant something like 'noble leader'. They were mercenaries offering their
-services to anyone. They were not like most of the rest of the underlings;
-their ancestors came here from distant lands, but they accepted into their
-ranks anyone willing to take their vows and abide by their traditions. Even
-some Akladians found a place amongst them."
+"I found a group of the people we Akladians referred to as the 'Dunefolk'. They
+had some other name for themselves that, in their barbarian and unworthy language,
+meant something like 'noble leader', but it mattered not, for we did not use that
+name for them. They were mercenaries offering their services to anyone. They were
+not like most of the rest of the underlings; their ancestors came here from distant
+lands, but they accepted into their ranks anyone willing to take their vows and
+abide by their traditions. Even some Akladians found a place amongst them."
 
 "Of all the underlings living in Vakladia, these were they who had resisted us
 most fiercely. In the last great battle, when all the other underlings were
-running for their lives, the Khalifate troops withstood us with determination
+running for their lives, the Dunefolk troops withstood us with determination
 and honor. None left the battlefield alive; they fought and fell to the last
 man. That's why we cut off their heads, hands and legs, so that in the
 afterlife they would not be danger to us."
 
 "Finally, the party reached the crossroads. The northern path led to Vattin,
 the southern path to Reme's clan settlements. It was here that Reme Carrenemoe
-decided to leave Lorin to her fate. " JESIEŃ
+decided to leave Lorin to her fate. " JESIEŃ (AUTUMN)
 
 "After leaving the Forest of Raedwood, Gawen and his companions found
 themselves faced with a problem: what to do next and how to fulfill the request
@@ -82,7 +87,7 @@ that."
 
 "Fighting in the swamps of Saorduc had not made anyone happy and Gawen's
 soldiers were delighted to leave the frozen fens. They were all mired in a
-strange mix of mud and snow, and this was not improving their mood." ZIMA
+strange mix of mud and snow, and this was not improving their mood." ZIMA (WINTER)
 
 "After seeing the atrocities committed by the orcs, Gawen's soldiers were
 unusually silent. None joked nor sang, as had been the norm after their last
@@ -92,12 +97,16 @@ and children."
 "Bitter and depressed, having failed to interrogate a single orc leader who
 knew anything of substance, Gawen and his troops headed home toward Freetown.
 Along the way, they found a near-frozen orc, dying in the snow. 'Grekulak', it
-said, and then expired." ZIMA
+said, and then expired." ZIMA (WINTER)
 
+"A bitter-cold wind was blowing on the day when Gawen's army, guided by local
+peasants, reached the hills where Haeltin was located. Ruvio explained that the
+She-wolf of Haeltin had fought with Akladians as well as orcs, so she could be a
+friend." ZIMA (WINTER)
 
-"A bitter-cold wind was blowing on the day when Gawen's army, guided by local peasants, reached the hills where Haeltin was located. Ruvio explained that the She-wolf of Haeltin had fought with Akladians as well as orcs, so she could be a friend." ZIMA
-
-"Ruvio complained that nothing good could be found in the Saorduc Swamps, but that didn't stop Gawen. He reasoned that in the winter the swamps would be frozen and the lizards would be much easier to defeat." ZIMA
+"Ruvio complained that nothing good could be found in the Saorduc Swamps, but that
+didn't stop Gawen. He reasoned that in the winter the swamps would be frozen and
+the lizards would be much easier to defeat." ZIMA (WINTER)
 
 "When we arrived, we found the city of the Oracle besieged. Four different
 armies, each under a different leader, surrrounded it. This disunity seemed to
@@ -129,10 +138,24 @@ Maybe they were just pretending they didn't? These were strange days, when I
 felt both happy and terrified, when I was both trying to escape from - and wait
 for - every hour."
 
-"Gawen and his army marched out of Vattin. Bor Cryne wasn't waiting - realizing that his only chance was to join with Grekulak's hordes advancing from the east, he left his hideout with all forces he could muster... but by this time, many Akladian lords and the greater part of the orcs had already abandoned him."
+"Gawen and his army marched out of Vattin. Bor Cryne wasn't waiting - realizing
+that his only chance was to join with Grekulak's hordes advancing from the east,
+he left his hideout with all forces he could muster... but by this time, many
+Akladian lords and the greater part of the orcs had already abandoned him."
 
-"Both forces met at the fields which were later called Orannon, which in Akladian means 'battlefield'. This day was to be remembered for many generations to come - and also by vultures and jackals, who couldn't expect to see such an abundant number of bodies again for decades."
+"Both forces met at the fields which were later called Orannon, which in Akladian
+means 'battlefield'. This day was to be remembered for many generations to come -
+and also by vultures and jackals, who couldn't expect to see such an abundant
+number of bodies again for decades."
 
-"Soon envoys came from other Akladian kingdoms. Easkladia had no king and Gawen was asked to take over what was left of that kingdom. Others came from Okladia, but these were not envoys, but refugees. Finally, to my surprise, Gawen's cousins, Luc and Gauri Hagarthen from Guilcorta sent their own messengers."
+"Soon envoys came from other Akladian kingdoms. Easkladia had no king and Gawen was
+asked to take over what was left of that kingdom. Others came from Okladia, but
+these were not envoys, but refugees. Finally, to my surprise, Gawen's cousins, Luc
+and Gauri Hagarthen from Guilcorta sent their own messengers."
 
-"Lorin journeyed among the Ostans of the Khalifa, taking the vows required to join them, all the while searching for Majid Yahyazad. He took care of both her and her child, raising the child as if it were his own son, and showing toward her the love and respect he felt ought to be accorded to the She-Wolf of Haeltin. While rumors cast doubt on their happiness together, there was no doubt of their devotion to each other; they spent the rest of their days together. "
+"Lorin journeyed among the Ostans of the Dunefolk, taking the vows required to join
+them, all the while searching for Majid Yahyazad. He took care of both her and her
+child, raising the child as if it were his own son, and showing toward her the love
+and respect he felt ought to be accorded to the She-Wolf of Haeltin. While rumors
+cast doubt on their happiness together, there was no doubt of their devotion to
+each other; they spent the rest of their days together. "
