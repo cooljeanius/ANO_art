@@ -4,7 +4,7 @@ Stuff that goes here:
 - high-resolution originals
 - material removed from previous versions
 - unused material
-- source projects for use with GIMP or whatever
+- source projects for use with GIMP or Pixelmator or Photoshop or whatever
 Compare this to how the main Wesnoth project has both a main repository and a
 media respository:
 Main repository: https://github.com/wesnoth/wesnoth
