@@ -50,7 +50,8 @@ betray Freetown; I played with several reasons for why she did that:
 betrayed by his wife) etc. Finally I decided that it was too unbelievable from
 psychological point of view, and it would be better to have this issue unsolved.
 Right now there is no sense in Ruvio having more daughters. There is still some
-dialogue that seems to imply he does, though, e.g. Bor Cryne's dialogue at Orannon.
+dialogue that seems to imply he does, though, e.g. Bor Cryne's dialogue at Orannon,
+and also Karen's unit description, and various other strings.
 
 4) "It left Grekulak's capital in ruins, and Akladians escaped to the west, chased
 by Grekulak's allies, drowning in swamps, fighting with lizards and all kinds of
