@@ -20,16 +20,18 @@ better picture of the campaign.
 In fact, ANO is about 2/3 of the length intended for it at the beginning. But I
 got too tired in the end, and resigned from a few subplots:
 
-1) Mithrandil and whole idea of elvish conspiracy to kill off Haldric's
+1) Mithrandil and the whole idea of an elvish conspiracy to kill off Haldric's
 descendants. I decided that it would not add much, that it was too unbelievable,
-and thus removed it. However, there are still two remains: 
- a) It makes no sense for Mithrandil to have wrinkles. 
+and thus removed it. However, there are still two(?) remains: 
+ a) It makes no sense for Mithrandil to have wrinkles. (He does?)
  b) The following line can be (and has been) removed:
 in ano-29, line 67:
 "The elves believed, that with his death the curse of Haldric which was put
 long ago upon the Wesnoth and descendants of Haldric was finally relieved.
 Mithrandil, the only elf ever with wrinkles, finally could die, gleefully"
 It has no sense now. I forgot about that.
+ c) There is an unused map (maps/RaedwoodEast.map) that has some elvish villages
+that seems like it might have been used for a scenario for this subplot?
 
 2) Initially I intended player to have chance to find out about Lorin. At the
 beginning, I wanted the player to find out that Lorin had an older sister, who
