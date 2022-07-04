@@ -159,3 +159,5 @@ child, raising the child as if it were his own son, and showing toward her the l
 and respect he felt ought to be accorded to the She-Wolf of Haeltin. While rumors
 cast doubt on their happiness together, there was no doubt of their devotion to
 each other; they spent the rest of their days together. "
+
+See also: https://github.com/cooljeanius/A_New_Order/blob/master/ART_TODO.txt
