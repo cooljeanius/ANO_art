@@ -35,6 +35,7 @@ drummonds: a set of village graphics to be used as terrain on maps; I think
            "drummonds" was the artist
 egallager: stuff by me (egallager); so far just 1 frankenportrait of S01's medic
 elven_trackers: some variants on a certain story image
+FfuzzyLogik: images posted by user FfuzzyLogik in the main ANO forum thread
 finished: more variants on certain story images, plus the logo
 iborra: portraits of the main characters (Gawen, Karen, Lorin, Reme, & Ruvio) by
         Santiago Iborra
