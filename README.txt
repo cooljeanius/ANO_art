@@ -20,6 +20,8 @@ ART_TODO.txt: https://github.com/cooljeanius/A_New_Order/blob/master/ART_TODO.tx
 Same file in hers: https://github.com/nemaara/A_New_Order/blob/master/ART_TODO.txt
 
 Current directory layout in this repository:
+A_New_Order_units_and_pictures: images from the following thread:
+                                https://forums.wesnoth.org/viewtopic.php?t=6174
 akl_sprites: some basic Akladian sprites; might be duplicates, in which case they
              could be removed. Seems to be the current ones by sleepwalker.
 ANO_nowe_story: "nowe" is Polish for "new"; images are used in story parts
