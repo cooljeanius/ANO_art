@@ -1,0 +1,92 @@
+[
+    {
+        "instance_prompt":   "pixelart sprites of Akladians",
+        "class_prompt":      "pixelart sprite",
+        "instance_data_dir": "../../../data/ANO_art/akl_sprites",
+        "class_data_dir":    "../../../data/class_gen/akl_sprites"
+    },
+    {
+        "instance_prompt":   "battlefield landscape",
+        "class_prompt":      "battlefield landscape",
+        "instance_data_dir": "../../../data/ANO_art/ANO_UMC_art/krajobraz",
+        "class_data_dir":    "../../../data/class_gen/ANO_UMC_art/krajobraz"
+    },
+    {
+        "instance_prompt":   "Surami Fortress",
+        "class_prompt":      "ruin of a medieval fortress",
+        "instance_data_dir": "../../../data/ANO_art/ANO_UMC_art/Surami",
+        "class_data_dir":    "../../../data/class_gen/ANO_UMC_art/Surami"
+    },
+    {
+        "instance_prompt":   "character portrait of Gawen Hagarthen",
+        "class_prompt":      "character portrait of a fantasy warrior",
+        "instance_data_dir": "../../../data/ANO_art/iborra/gawen",
+        "class_data_dir":    "../../../data/class_gen/iborra/gawen"
+    },
+    {
+        "instance_prompt":   "character portrait of Karen, Ruvio's daughter",
+        "class_prompt":      "character portrait of a fantasy warrior woman",
+        "instance_data_dir": "../../../data/ANO_art/iborra/karen",
+        "class_data_dir":    "../../../data/class_gen/iborra/karen"
+    },
+    {
+        "instance_prompt":   "character portrait of Lorin of the Gallorae clan",
+        "class_prompt":      "character portrait of a fantasy warrior woman",
+        "instance_data_dir": "../../../data/ANO_art/iborra/lorin",
+        "class_data_dir":    "../../../data/class_gen/iborra/lorin"
+    },
+    {
+        "instance_prompt":   "character portrait of Reme Carrenemoe",
+        "class_prompt":      "character portrait of a fantasy barbarian warrior",
+        "instance_data_dir": "../../../data/ANO_art/iborra/reme",
+        "class_data_dir":    "../../../data/class_gen/iborra/reme"
+    },
+    {
+        "instance_prompt":   "pixelart sprite in the style of sylar",
+        "class_prompt":      "pixelart sprite",
+        "instance_data_dir": "../../../data/ANO_art/sylar",
+        "class_data_dir":    "../../../data/class_gen/sylar"
+    },
+    {
+        "instance_prompt":   "character portrait of an Akladian Wiseman"
+        "class_prompt":      "character portrait of a fantasy barbarian healer",
+        "instance_data_dir": "../../../data/ANO_art/twitter_comms/akladian_wiseman",
+        "class_data_dir":    "../../../data/class_gen/twitter_comms/akladian_wiseman"
+    },
+    {
+        "instance_prompt":   "character portrait of Kyobaine"
+        "class_prompt":      "character portrait of an elvish druid woman",
+        "instance_data_dir": "../../../data/ANO_art/twitter_comms/Kyobaine",
+        "class_data_dir":    "../../../data/class_gen/twitter_comms/Kyobaine"
+    },
+    {
+        "instance_prompt":   "character portrait of an Akladian Lord"
+        "class_prompt":      "character portrait of a fantasy barbarian warrior",
+        "instance_data_dir": "../../../data/ANO_art/zareba/akladianlords",
+        "class_data_dir":    "../../../data/class_gen/zareba/akladianlords"
+    },
+    {
+        "instance_prompt":   "character portrait of Bor Cryne"
+        "class_prompt":      "character portrait of a fantasy barbarian warrior",
+        "instance_data_dir": "../../../data/ANO_art/zareba/borcryne",
+        "class_data_dir":    "../../../data/class_gen/zareba/borcryne"
+    },
+    {
+        "instance_prompt":   "character portrait of Grekulak"
+        "class_prompt":      "character portrait of an undead lich necromancer",
+        "instance_data_dir": "../../../data/ANO_art/zareba/grekulak",
+        "class_data_dir":    "../../../data/class_gen/zareba/grekulak"
+    },
+    {
+        "instance_prompt":   "character portrait of Hoyre O Barnone"
+        "class_prompt":      "character portrait of a fantasy barbarian warrior",
+        "instance_data_dir": "../../../data/ANO_art/zareba/Hoyre",
+        "class_data_dir":    "../../../data/class_gen/zareba/Hoyre"
+    },
+    {
+        "instance_prompt":   "character portrait of Majid Yahyazad"
+        "class_prompt":      "character portrait of a fantasy nomadic warrior",
+        "instance_data_dir": "../../../data/ANO_art/zareba/majid",
+        "class_data_dir":    "../../../data/class_gen/zareba/majid"
+    }
+]
