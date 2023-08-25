@@ -35,7 +35,9 @@ art: another copy of the old Akladian Clansman sprites, and a few story images
 basicsr-sprites-rescaled: some of the sprites run through various upscalers
 drummonds: a set of village graphics to be used as terrain on maps; I think
            "drummonds" was the artist
-egallager: stuff by me (egallager); so far just 1 frankenportrait of S01's medic
+egallager: stuff by me (egallager); so far includes gif renderings of various
+           animations, annotated images passed along as references to commissioned
+           artists, and 1 frankenportrait of S01's medic
 elven_trackers: some variants on a certain story image
 FfuzzyLogik: images posted by user FfuzzyLogik in the main ANO forum thread
 finished: more variants on certain story images, plus the logo
