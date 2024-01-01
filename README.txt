@@ -33,6 +33,7 @@ ANO_UMC_art: misc. source images used to create other story images; some notes:
  - I'm assuming Surami is this: https://en.wikipedia.org/wiki/Surami
 art: another copy of the old Akladian Clansman sprites, and a few story images
 basicsr-sprites-rescaled: some of the sprites run through various upscalers
+Discord: images from people on Discord
 drummonds: a set of village graphics to be used as terrain on maps; I think
            "drummonds" was the artist
 egallager: stuff by me (egallager); so far includes gif renderings of various
@@ -57,6 +58,8 @@ sprites: another set of the old Akladian sprites that are no longer used and can
          probably be deleted; there are some interesting source materials in this
          directory, though
 sprites_backup: good grief there are a lot of duplicates here
+StableDiffusionGenerated: I keep meaning to do some experiments with AI in this
+                          repo, which will eventually go here once generated
 stare: old story images that are no longer used
 sylar: a newer set of sprites for some of the more story-related characters
 Thumbs_db: The original folder that szopen sent me included some Windows-created
