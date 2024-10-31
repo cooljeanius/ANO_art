@@ -29,17 +29,17 @@ try:
     import gtk
     a = gtk.check_version(2, 10, 0)
     if a:
-        print a
+        print(a)
         sys.exit(1)
 except:
-    print "Please install pyGTK version 2.10 or later"
+    print("Please install pyGTK version 2.10 or later")
     sys.exit(1)
 try:
     import gtk.glade
     import gobject
     import cairo
     import os
-except ImportError, error_message:
+except ImportError as error_message:
     error_dialog = gtk.MessageDialog(None
                       , gtk.DIALOG_MODAL | gtk.DIALOG_DESTROY_WITH_PARENT
                       , gtk.MESSAGE_ERROR
