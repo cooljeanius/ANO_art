@@ -25,7 +25,6 @@ APP_VERSION = '1.5.0'
 import sys
 
 try:
-    import pygtk
     import gtk
     a = gtk.check_version(2, 10, 0)
     if a:
